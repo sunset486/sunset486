@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunset486
-- 👀 I’m interested in various programming skills and hobbies
-- 🌱 I’m currently learning back-end programming with Entity Framework Core
+- 👋 Hi, I’m Andrei Petcu / @sunset486
+- 🇷🇴 Bachelor's Degree in Computer Science, "Gheorghe Asachi" Technical University of Iasi.
+- 👀 Efficient in C#, particularly .NET Core and Entity Framework. Most recently I worked as a Full Stack Developer, but I am also interested in game development.
 
 <!---
 sunset486/sunset486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
